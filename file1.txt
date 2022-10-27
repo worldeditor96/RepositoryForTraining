@@ -1,6 +1,8 @@
 Hello world
+12345
+Good evening! (from branch master)
+line from user2
+some new feature
 
-aaa
-a
+line from user1 - lesson about rebase
 
-good bye!
