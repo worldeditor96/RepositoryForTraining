@@ -1,6 +1,3 @@
 Hello world
-
-aaa
-a
-
-line from user1
+12345
+Good bye!
